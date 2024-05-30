@@ -1,0 +1,5 @@
+keyboard==0.13.5
+pymem==1.13.1
+pynput==1.7.6
+pywin32==305.1
+Requests==2.31.0
